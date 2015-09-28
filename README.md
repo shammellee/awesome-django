@@ -63,7 +63,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Admin interface
 
-*Packages that extend the Admin interface, adding or improving features.*
+*Packages that extend the Admin interface, adding or improving features*
 
 * [djamin](https://github.com/hersonls/djamin/) - A new style for Django admin.
 * [django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap/) - Responsible Skin for Django Admin
@@ -82,13 +82,13 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Analytics
 
-*Packages that do web analytics or integrate web analytics services.*
+*Packages that do web analytics or integrate web analytics services*
 
 * [django-analytical](https://github.com/jcassee/django-analytical) - Integrates analytics services with a generic interface, templates stay clean.
 
 ## Asset Management
 
-*Packages that help manage the static assets of a project.*
+*Packages that help manage the static assets of a project*
 
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
 * [django-gears](https://github.com/gears/django-gears/) - Compiles and concatenates JavaScript and CSS assets.
@@ -99,7 +99,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Authentication
 
-*Packages that improve or extend the authentication methods of Django.*
+*Packages that improve or extend the authentication methods of Django*
 
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 * [django-organizations](https://github.com/bennylope/django-organizations) - Multi-user accounts for Django projects.
@@ -112,7 +112,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Authorization
 
-*Packages related to authorization infrastructure and permissions.*
+*Packages related to authorization infrastructure and permissions*
 
 * [django-guardian](https://github.com/lukaszb/django-guardian/) - Implementation of per object permissions as authorization backend.
 * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
@@ -123,14 +123,14 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Boilerplate
 
-* Packages related to smart a new project starting.*
+*Packages related to smart a new project starting*
 
 * [cookiecutter](https://github.com/audreyr/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates).
 * [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications, containing various social authentication methods and several popular API examples.
 
 ## Caching
 
-*Packages that help with caching.*
+*Packages that help with caching*
 
 * [django-cachalot](https://github.com/BertrandBordage/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 * [django-cache-machine](https://github.com/jbalogh/django-cache-machine) - Automatic caching and invalidation for Django models through the ORM.
@@ -141,20 +141,20 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Compatibility
 
-*Packages that help to keep compatibility of reusable apps between different Django versions.*
+*Packages that help to keep compatibility of reusable apps between different Django versions*
 
 * [django-compat](https://github.com/arteria/django-compat) - For- and backwards compatibility layer for the officially  supported Django versions.
 * [django-compat-lint](https://github.com/ubernostrum/django-compat-lint) - Check Django compatibility of your code.
 
 ## Data sciences
 
-*Packages that make it easier to work with large volumes of data
+*Packages that make it easier to work with large volumes of data*
 
 * [rest-pandas](https://github.com/wq/django-rest-pandas/) - Serves up your Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel).
 
 ## Database
 
-*Packages that add support for 3rd party databases or database specific features.*
+*Packages that add support for 3rd party databases or database specific features*
 
 * [django-postgrespool](https://github.com/kennethreitz/django-postgrespool/) - Postgres Connection Pooling for Django, powered by SQLAlchemy.
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Use Database URLs in your Django Application.
@@ -163,7 +163,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Debugging
 
-*Packages that help hunt down bugs.*
+*Packages that help hunt down bugs*
 
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
 * [django-devserver](https://github.com/dcramer/django-devserver/) - A drop in replacement for Django's built-in runserver command.
@@ -173,7 +173,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Email
 
-*Packages that help manage email sending.*
+*Packages that help manage email sending*
 
 * [django-db-mailer](https://github.com/LPgenerator/django-db-mailer/) - Django module to easily send email/sms/push/tts using django templates stored on database and managed through the Django Admin.
 * [django-celery-email](https://github.com/pmclanahan/django-celery-email/) - A Django email backend that uses a celery task for sending the email.
@@ -189,7 +189,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Fields
 
-*Packages that extend the functionality of existing field type or add new field types.*
+*Packages that extend the functionality of existing field type or add new field types*
 
 * [django-bitfield](https://github.com/disqus/django-bitfield/) - A BitField extension for Django models.
 * [django-countries](https://github.com/SmileyChris/django-countries/) - Provides country choices for forms, flag icons, and a CountryField.
@@ -212,7 +212,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Forms
 
-*Packages that extend the functionality of forms or add new types of forms.*
+*Packages that extend the functionality of forms or add new types of forms*
 
 * [django-bootstrap-form](https://github.com/tzangms/django-bootstrap-form/) - Twitter Bootstrap for Django Form
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3/) - Use Bootstrap in your Django templates, the Django way.
@@ -222,20 +222,20 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## GIS
 
-*Packages that make it easier to work with geographical information system projects.*
+*Packages that make it easier to work with geographical information system projects*
 
 * [django-geoposition](https://github.com/philippbosch/django-geoposition/) - A model field that can hold a geoposition (latitude/longitude), and corresponding admin/form widget.
 * [django-location-field](https://github.com/caioariede/django-location-field/) - Location field and widget integrated with Google Maps.
 
 ## Image handling
 
-*Packages that help to manipulate, alter, or convert images.*
+*Packages that help to manipulate, alter, or convert images*
 
 * [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - helper application to easily and non-destructively crop arbitrarily large images in admin and frontend.
 
 ## RESTful API
 
-*Packages for developing RESTful APIs.*
+*Packages for developing RESTful APIs*
 
 * [django-nap](http://github.com/funkybob/django-nap/) - A minimalist approach to object serialization, RESTful views, and RPC views.
 * [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
@@ -245,7 +245,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Migrations
 
-*Packages that help migrate the database when there are schema updates.*
+*Packages that help migrate the database when there are schema updates*
 
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations that supports Django up to 1.6.x. ([Django 1.7 and up have an integrated migration system, based on but not compatible with South](https://docs.djangoproject.com/en/dev/topics/migrations/))
 
@@ -258,7 +258,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Model Extensions
 
-*Packages that extend the functionality of models or add new classes of models.*
+*Packages that extend the functionality of models or add new classes of models*
 
 * [django-aggregate-if](https://github.com/henriquebastos/django-aggregate-if/) - Conditional aggregates for Django queries, just like the famous SumIf and CountIf in Excel.
 * [django-localflavor](https://github.com/django/django-localflavor/) - Country-specific Django helpers, formerly of contrib fame.
@@ -268,7 +268,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Payment Processing
 
-*Packages that provide payment processing provider integration.*
+*Packages that provide payment processing provider integration*
 
 * [dj-stripe](https://github.com/pydanny/dj-stripe/) - Django + Stripe Made Easy.
 * [django-merchant](https://github.com/agiliq/merchant/) - A Django app that provides helpers for multiple pluggable payment backends.
@@ -285,7 +285,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Search
 
-*Packages that provide search capabilities to projects.*
+*Packages that provide search capabilities to projects*
 
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
 * [django-watson](https://github.com/etianen/django-watson/) - Fast multi-model full-text search plugin.
@@ -293,7 +293,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Security
 
-*Packages that improve the security of a project.*
+*Packages that improve the security of a project*
 
 * [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot/) - A fake Django admin login screen to notify admins of attempted unauthorized access.
 * [django-axes](https://github.com/django-pci/django-axes/) - is a very simple way for you to keep track of failed login attempts, both for the Django admin and for the rest of your site.
@@ -306,7 +306,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## SEO
 
-*Packages that help improve SEO ( Search Engine Optimization ) of projects.*
+*Packages that help improve SEO ( Search Engine Optimization ) of projects*
 
 * [django-meta](https://github.com/nephila/django-meta/) - a pluggable app to allow Django developers to quickly add meta tags and OpenGraph, Twitter, and Google Plus properties to their HTML responses.
 * [django-seo](https://github.com/willhardy/django-seo/) - Provides a set of tools for managing Search Engine Optimisation (SEO) for Django sites.
@@ -314,7 +314,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Settings
 
-*Packages that help manage the configurability of projects.*
+*Packages that help manage the configurability of projects*
 
 * [django-configurations](https://github.com/jezdez/django-configurations/) - A helper for organizing Django project settings by relying on well established programming patterns.
 * [django-constance](https://github.com/jezdez/django-constance/) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
@@ -323,7 +323,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Storage
 
-*Packages that extend the functionality of the existing storage backend or provide new storage backends.*
+*Packages that extend the functionality of the existing storage backend or provide new storage backends*
 
 * [django-storages](https://bitbucket.org/david/django-storages/src/) - django-storages is a collection of custom storage backends for Django.
 * [django-queued-storage](https://github.com/jezdez/django-queued-storage/) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely.
@@ -339,7 +339,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Task Queue
 
-*Packages that make working with task/background queues easier.*
+*Packages that make working with task/background queues easier*
 
 * [django-celery](http://celery.github.io/django-celery/) - Celery Integration for Django. (no longer required for Celery 3.1 and up)
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
@@ -348,7 +348,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Testing
 
-*Packages that help test code or generate test data.*
+*Packages that help test code or generate test data*
 
 * [hitchtest](http://hitchtest.com/) - High level integration testing framework for Django.
 * [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module.
@@ -370,7 +370,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Thumbnail
 
-*Packages that help generate thumbnails.*
+*Packages that help generate thumbnails*
 
 * [django-stdimage](https://github.com/codingjoe/django-stdimage/) - Thumbnails and image utils for Django.
 * [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django.
@@ -378,7 +378,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Translations
 
-*Packages help with the task of translating projects.*
+*Packages help with the task of translating projects*
 
 * [django-klingon](https://github.com/angvp/django-klingon/) - An attempt to make django model translations suckless and with no integrations pain in your app.
 * [django-hvad](https://github.com/KristianOellegaard/django-hvad) - Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.
@@ -388,7 +388,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Views
 
-*Packages that enhance or provide new view classes.*
+*Packages that enhance or provide new view classes*
 
 * [django-extra-views](https://github.com/AndrewIngram/django-extra-views/) - Django's class-based generic views are awesome, let's have more of them.
 * [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views/) - Beautifully simple class-based views.
@@ -401,7 +401,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## WYSIWYG Editors
 
-*Packages that makes text editing awesome.*
+*Packages that makes text editing awesome*
 
 * [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor/) - Django admin CKEditor integration.
 * [django-summernote](https://github.com/summernote/django-summernote/) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
@@ -416,7 +416,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 ## Workflows
 
-*Packages that do process, procedure and/or business tasks management.*
+*Packages that do process, procedure and/or business tasks management*
 
 * [django-flows](https://github.com/carlio/django-flows/) - django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.
 * [django-fsm](https://github.com/kmmbvnr/django-fsm/) - Django friendly finite state machine support.
@@ -461,7 +461,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 # Projects
 
-*Outstanding Django projects.*
+*Outstanding Django projects*
 
 ## CMS
 
@@ -532,7 +532,7 @@ Where to discover new Django apps and projects.
 
 ## External documentation
 
-*Additional sources of information about django features.*
+*Additional sources of information about django features*
 
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions, with full methods and attributes, for each of Django's class-based generic views.
 
